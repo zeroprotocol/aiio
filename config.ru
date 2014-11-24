@@ -1,5 +1,6 @@
 require 'sinatra'
 require './sinatra-ssl'
+require './plugins.rb'
 
 set :port, 443					 # HTTPS
 set :ssl_certificate, "./certs/server.crt"       # change this if you want to use your certificates that are on your system
