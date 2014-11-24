@@ -1,0 +1,20 @@
+# Feel free to use this when authoring your own plugin
+# you wont commit any of your personal plugins or templates
+
+*~
+*.swp
+aiio.git/**/*
+
+# allow installation plugins
+!plugins/installation/*
+!plugins/installation/**/*
+
+# allow installation templates
+!templates/installation/*
+!templates/installation/**/*
+
+plugins/**/*
+templates/**/*
+
+
+
