@@ -1,6 +1,0 @@
-*~
-*.swp
-aiio.git/**/*
-plugins/**/*
-!plugins/installation/**/*
-
